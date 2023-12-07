@@ -1,0 +1,17 @@
+.app-container {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #61dafb;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+}
+
+.header {
+  color: #61dafb;
+}
+
+.app-intro {
+  font-size: 18px;
+  color: #212529;
+}
